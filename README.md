@@ -6,14 +6,14 @@
 
 <!-- TYPING ANIMATION -->
 <!-- Change the lines[] values to your own text. Each string is one line that cycles. -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=7C8CF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+with+Next.js+%2B+React+%2B+TypeScript;Turning+ideas+into+fast%2C+clean+UIs;Open+to+Frontend+%26+Fullstack+roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=7C8CF8&center=true&vCenter=true&width=600&lines=Frontend+Developer;Building+with+Next.js+%2B+React+%2B+TypeScript;Turning+ideas+into+fast%2C+clean+UIs)](https://git.io/typing-svg)
 
 <!-- SOCIAL BADGES -->
 <!-- Replace each URL with your actual profile links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahtashamulhaq-dev)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahtasham_dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtasham1802@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://ahtasham-dev.vercel.app)
 
 <!-- PROFILE VIEWS COUNTER -->
 <!-- Replace "Ahtasham-ul-haq" with your GitHub username everywhere below -->
@@ -53,11 +53,11 @@ Built to understand how to wire together third-party AI APIs, handle image trans
 
 **Stack:** Next.js · TypeScript · MongoDB · Cloudinary AI · Stripe · shadcn/ui
 
-[![Repo](https://img.shields.io/badge/GitHub-Imaginify-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/imaginify)
-[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://your-imaginify-link.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Imaginify-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/Imaginify)
+[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://imaginify-design.vercel.app)
 
 <!-- REPO CARD — replace "imaginify" with your actual repo name, and username below -->
-[![Imaginify](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=imaginify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/imaginify)
+[![Imaginify](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Imaginify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Imaginify)
 
 ---
 
@@ -69,10 +69,10 @@ Built this to get hands-on with real-time data, authentication flows, and managi
 
 **Stack:** React · TypeScript · Appwrite · Tailwind CSS
 
-[![Repo](https://img.shields.io/badge/GitHub-Gramify-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/gramify)
-[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://your-gramify-link.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Gramify-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/Gramify)
+[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://gramify.vercel.app)
 
-[![Gramify](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=gramify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/gramify)
+[![Gramify](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Gramify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Gramify)
 
 ---
 
@@ -84,10 +84,10 @@ Built to understand how real-time video infrastructure works and how to build a 
 
 **Stack:** Next.js · TypeScript · Stream API · MongoDB
 
-[![Repo](https://img.shields.io/badge/GitHub-Flockit-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/flockit)
-[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://your-flockit-link.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Flockit-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/Flockit)
+[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://flockit.vercel.app)
 
-[![Flockit](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=flockit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/flockit)
+[![Flockit](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Flockit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Flockit)
 
 ---
 
