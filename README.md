@@ -96,8 +96,8 @@ Built to understand how real-time video infrastructure works and how to build a 
 <div align="center">
 
 <!-- THREE STAT CARDS IN A ROW — all free, no setup needed, just change the username -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ahtasham-ul-haq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtasham-ul-haq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&langs_count=6" height="165"/>
+<img src="https://github-readme-stats-six-rho-65.vercel.app/api?username=Ahtasham-ul-haq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-six-rho-65.vercel.app/api/top-langs/?username=Ahtasham-ul-haq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&langs_count=6" height="165"/>
 
 <!-- STREAK STATS -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=Ahtasham-ul-haq&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c8cf8&ring=7c8cf8&fire=ff6b6b&currStreakLabel=a0aec0&sideLabels=a0aec0&dates=a0aec0" width="49%"/>
