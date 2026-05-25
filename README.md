@@ -155,7 +155,7 @@ jobs:
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ahtasham-ul-haq/Ahtasham-ul-haq/output/github-snake.svg"/>
 </picture>
 
----
+<!---
 
 ## Currently
 
@@ -163,7 +163,7 @@ jobs:
 - 📖 Learning system design patterns and DSA
 - 👀 Open to **frontend internships** and **junior frontend/fullstack roles**
 
----
+--->
 
 <div align="center">
 
