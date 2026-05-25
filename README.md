@@ -2,7 +2,7 @@
 
 <!-- ANIMATED HEADER BANNER -->
 <!-- capsule-render.vercel.app — free, no signup, just change "Ahtasham+ul+Haq" and pick any color -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ahtasham%20ul%20Haq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ahtasham%20Ul%20Haq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&descColor=a0aec0" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <!-- Change the lines[] values to your own text. Each string is one line that cycles. -->
@@ -113,7 +113,6 @@ Built to understand how real-time video infrastructure works and how to build a 
 
 ---
 
-## Snake
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <!-- This requires a GitHub Action to generate. Setup instructions: -->
