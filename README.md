@@ -57,7 +57,7 @@ Built to understand how to wire together third-party AI APIs, handle image trans
 [![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://imaginify-design.vercel.app)
 
 <!-- REPO CARD — replace "imaginify" with your actual repo name, and username below -->
-[![Imaginify](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Imaginify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Imaginify)
+[![Imaginify](https://github-readme-stats-six-rho-65.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Imaginify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Imaginify)
 
 ---
 
@@ -72,7 +72,7 @@ Built this to get hands-on with real-time data, authentication flows, and managi
 [![Repo](https://img.shields.io/badge/GitHub-Gramify-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/Gramify)
 [![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://gramify.vercel.app)
 
-[![Gramify](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Gramify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Gramify)
+[![Gramify](https://github-readme-stats-six-rho-65.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Gramify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Gramify)
 
 ---
 
@@ -87,7 +87,7 @@ Built to understand how real-time video infrastructure works and how to build a 
 [![Repo](https://img.shields.io/badge/GitHub-Flockit-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/Flockit)
 [![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://flockit.vercel.app)
 
-[![Flockit](https://github-readme-stats.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Flockit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Flockit)
+[![Flockit](https://github-readme-stats-six-rho-65.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Flockit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Flockit)
 
 ---
 
