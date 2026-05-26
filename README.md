@@ -114,40 +114,6 @@ Built to understand how real-time video infrastructure works and how to build a 
 ---
 
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-<!-- This requires a GitHub Action to generate. Setup instructions: -->
-<!-- 1. Create this file in your profile repo: .github/workflows/snake.yml -->
-<!-- 2. Paste the workflow code from the comment below -->
-<!-- 3. Go to repo Settings > Actions > General > set "Workflow permissions" to Read and write -->
-<!-- 4. Run the action manually once, then it auto-runs daily -->
-<!--
-WORKFLOW CODE — save as .github/workflows/snake.yml:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahtasham-ul-haq/Ahtasham-ul-haq/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahtasham-ul-haq/Ahtasham-ul-haq/output/github-snake.svg"/>
