@@ -27,7 +27,7 @@
 
 Frontend developer focused on the gap between *it works* and *it feels right.* I build with Next.js, React, and TypeScript — and I care about the details most people skip: performance, accessibility, and UX polish that doesn't show up in a spec but absolutely shows up when you use the product.
 
-Currently growing into fullstack territory and exploring how AI APIs can be woven into real product experiences.
+Currently growing into fullstack territory — learning how things actually work on the backend: building APIs, understanding auth workflows, and getting into system design.
 
 ---
 
@@ -59,7 +59,7 @@ Built to understand how to wire together third-party AI APIs, handle image trans
 <!-- REPO CARD — replace "imaginify" with your actual repo name, and username below -->
 [![Imaginify](https://github-readme-stats-six-rho-65.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Imaginify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Imaginify)
 
----
+<!---
 
 ### Gramify — Social Media App
 
@@ -73,6 +73,22 @@ Built this to get hands-on with real-time data, authentication flows, and managi
 [![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://gramify.vercel.app)
 
 [![Gramify](https://github-readme-stats-six-rho-65.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=Gramify&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/Gramify)
+
+--->
+---
+### Mojito — GSAP Animation Landing Page
+
+> A visually rich cocktail-themed landing page built to learn and explore GSAP animations in React.
+
+Built this to get hands-on with scroll-based animations, entrance effects, and timeline sequences. React + JavaScript throughout.
+
+**Stack:** React · GSAP · Tailwind CSS · Vite
+
+[![Repo](https://img.shields.io/badge/GitHub-mojito-7c8cf8?style=flat-square&logo=github)](https://github.com/Ahtasham-ul-haq/mojito)
+[![Live](https://img.shields.io/badge/Live-Demo-00C9A7?style=flat-square&logo=vercel)](https://mojitococktails-gilt.vercel.app/)
+
+[![Gramify](https://github-readme-stats-six-rho-65.vercel.app/api/pin/?username=Ahtasham-ul-haq&repo=mojito&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c8cf8&text_color=a0aec0&icon_color=7c8cf8)](https://github.com/Ahtasham-ul-haq/mojito)
+
 
 ---
 
